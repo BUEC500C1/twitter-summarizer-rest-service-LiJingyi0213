@@ -1,0 +1,15 @@
+{% extends "layout.html" %}
+{% block content %}
+    {% for name in user_list %}
+        <article class="media content-section">
+          <div class="media-body">
+
+            <div class="article-metadata">
+              <a class="mr-2" href='#'>   {{ user_list[name].user_id }}  </a>
+              <small class="text-muted">  {{ user_list[name].create_time }}  </small>
+            </div>
+          
+          </div>
+        </article>
+    {% endfor %}
+{% endblock content %}
