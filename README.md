@@ -31,3 +31,9 @@ Document your REST APIs on your Github
 KEep your server off until we request it for grading.  We dont want you to waste money.
 
 ## Demostration
+![](https://github.com/BUEC500C1/twitter-summarizer-rest-service-LiJingyi0213/blob/master/HW5.1.png)
+![](https://github.com/BUEC500C1/twitter-summarizer-rest-service-LiJingyi0213/blob/master/HW5.2.png)
+![](https://github.com/BUEC500C1/twitter-summarizer-rest-service-LiJingyi0213/blob/master/HW5.3.png)
+![](https://github.com/BUEC500C1/twitter-summarizer-rest-service-LiJingyi0213/blob/master/HW5.4.png)
+![](https://github.com/BUEC500C1/twitter-summarizer-rest-service-LiJingyi0213/blob/master/HW5.5.png)
+![](https://github.com/BUEC500C1/twitter-summarizer-rest-service-LiJingyi0213/blob/master/HW5.6.png)
